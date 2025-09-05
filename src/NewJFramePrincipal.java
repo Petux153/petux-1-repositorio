@@ -81,6 +81,7 @@ public class NewJFramePrincipal extends javax.swing.JFrame {
         jMenu2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Custom-Icon-Design-Mono-General-1-Faq.16.png"))); // NOI18N
         jMenu2.setText("AJUDA");
 
+        jMenuItem3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Mayosoft-Gmail-Gmail-Sobre.16.png"))); // NOI18N
         jMenuItem3.setText("Sobre");
         jMenuItem3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
